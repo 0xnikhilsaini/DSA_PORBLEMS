@@ -1,0 +1,29 @@
+{
+    "cells": [
+        {
+            "language": "typescript",
+            "source": [
+                "let a = 10;\na"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "text/plain",
+                            "value": [
+                                "\u001b[33m10\u001b[39m"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "HELLO THIS IS FIRST PORGRAME"
+            ],
+            "outputs": []
+        }
+    ]
+}
